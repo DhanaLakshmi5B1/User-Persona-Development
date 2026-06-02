@@ -8,11 +8,11 @@ Intern Name: KANDEPU DHANA LAKSHMI
 
 Intern ID: CITS2813
 
-Domain: UI/UX Intern
+Domain: UI/UX Design
 
 Duration: 8 Weeks
 
-Internship Period: 30 May 2026 – 25 July 2026
+Mentor Name:Neela Santhosh Kumar
 
 ## Objective
 
