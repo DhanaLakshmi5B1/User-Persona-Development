@@ -3,10 +3,15 @@
 ## User Persona Development
 
 Company: CODTECH IT SOLUTIONS
-Intern Name: Kandepu Dhana Lakshmi
+
+Intern Name: KANDEPU DHANA LAKSHMI
+
 Intern ID: CITS2813
-Domain: UI/UX Design
+
+Domain: UI/UX Intern
+
 Duration: 8 Weeks
+
 Internship Period: 30 May 2026 – 25 July 2026
 
 ## Objective
