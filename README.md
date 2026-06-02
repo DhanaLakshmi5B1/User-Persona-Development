@@ -39,3 +39,17 @@ This project focuses on developing a fictional user persona for an online shoppi
 ## Conclusion
 
 This project successfully demonstrates how user personas help designers understand target users and create user-centered design solutions.
+
+## Proof of Execution
+
+### User Persona Report Screenshot
+
+![User Persona Report](proof1.png)
+
+### GitHub Repository Screenshot
+
+![GitHub Repository](proof2.png)
+
+### User Avatar
+
+![User Avatar](avatar.png)
